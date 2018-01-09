@@ -1,0 +1,1 @@
+This repo contains a Jupyter notebook looking at the dependence of atom number as determined from a CCD camera on a number of observables in our ultracold strontium experiment, including laboratory temperature and humidity measurements, all taken on August 4, 2017. The original data are also included.
